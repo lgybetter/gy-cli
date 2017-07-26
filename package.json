@@ -1,0 +1,31 @@
+{
+  "name": "zeus-cli",
+  "description": "The first cli",
+  "version": "1.0.0",
+  "keywords": [
+    "toolkit",
+    "cli"
+  ],
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "bin": {
+    "zeus": "./bin/zeus.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "engine-strict": true,
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
