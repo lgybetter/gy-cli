@@ -1,0 +1,27 @@
+{
+  "name": "yargs-demo",
+  "bin": {
+    "yargs-demo": "yargs-demo.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "yargs-demo --name ./lgylgy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgybetter/yargs-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lgybetter/yargs-demo/issues"
+  },
+  "homepage": "https://github.com/lgybetter/yargs-demo#readme",
+  "description": "test yargs"
+}

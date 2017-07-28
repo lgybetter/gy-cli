@@ -1,0 +1,17 @@
+Tips:
+ downloading: 'template downloading'
+ downloadSuccess: 'template downloaded'
+ genTemplate: 'template generating'
+ genTemplateSucc: 'template generated'
+Colors:
+ g: 'green'
+ r: 'red'
+ b: 'blue'
+Questions:
+ confirmProjectName: 'Project name'
+ inputProjectName: 'Input project name'
+ ifEslint: 'Whether use eslint'
+ ifMocha: 'Whether use mocha'
+Resp:
+ normal: 'git@git.mail.netease.com:zeus-admin/zeus-demo.git'
+TemplatePath: 'template'
