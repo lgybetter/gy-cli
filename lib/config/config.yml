@@ -13,5 +13,5 @@ Questions:
  ifEslint: 'Whether use eslint'
  ifMocha: 'Whether use mocha'
 Resp:
- normal: 'git@git.mail.netease.com:zeus-admin/zeus-demo.git'
+ normal: 'https://github.com/lgybetter/h5-template-webpack.git'
 TemplatePath: 'template'

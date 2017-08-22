@@ -1,6 +1,6 @@
 {
-  "name": "zeus-cli",
-  "description": "The zeus cli",
+  "name": "gy-cli",
+  "description": "The gy cli",
   "version": "1.0.0",
   "keywords": [
     "toolkit",
@@ -11,7 +11,7 @@
     "bin"
   ],
   "bin": {
-    "zeus": "./bin/zeus.js"
+    "gy": "./bin/gy.js"
   },
   "dependencies": {
     "co": "^4.6.0",
