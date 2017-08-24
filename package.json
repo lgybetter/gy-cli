@@ -6,6 +6,13 @@
     "toolkit",
     "cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgybetter/gy-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lgybetter/gy-cli/issues"
+  },
   "files": [
     "lib",
     "bin"
@@ -33,5 +40,6 @@
     {
       "type": "MIT"
     }
-  ]
+  ],
+  "author": "lgybetter"
 }
